@@ -29,8 +29,8 @@ This project consists of a web application built with Flask that allows users to
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/username/repo-name.git
-    cd your-repo-name
+    git clone <repository_url>
+    cd <repository_folder>
     ```
 
 2. **Create a virtual environment and activate it:**
